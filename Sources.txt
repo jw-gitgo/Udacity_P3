@@ -1,0 +1,7 @@
+Sources:
+
+wiki.openstreetmap.org
+docs.mongodb.org
+stackoverflow.com
+docs.python.org
+www.w3schools.com
